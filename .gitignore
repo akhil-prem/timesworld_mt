@@ -1,1 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+media/
+
+# Secret key
+*.secret_key
+
+# Development
+*.pyc
+*.bak
+*.swp
+*.~lock.*
+
+# Local development settings
+local_settings.py
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python virtual environment
 venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Caches and backups
+*.pyc
+*.pyo
+*~
+__pycache__/
+.cache/
+
+# Dependency directories
+lib/
+lib64/
+__pycache__/
+node_modules/
